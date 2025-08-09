@@ -419,3 +419,5 @@ public class BinarySearch {
 * Space: `O(1)`
 
 ---
+
+`<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fimag&psig=AOvVaw2S8eI_VuODtxkEfYqcxNOP&ust=1754814162951000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLivraem_Y4DFQAAAAAdAAAAABAE">`
